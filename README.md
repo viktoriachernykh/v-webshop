@@ -1,4 +1,4 @@
-# viwildy
+# vue-webshop
 
 ## Project setup
 ```
